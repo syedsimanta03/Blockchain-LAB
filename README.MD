@@ -703,13 +703,18 @@ In the case of PoS algorithm, a set of nodes decide to stake their own cryptocur
 
 # :zap:Before Writing Code
 
-The easiest way to get started making DApps is by first understanding how blockchain technology works in general. Making effective requires the paradigm shift to thinking in terms of decentralized services. Without that knowledge, you’ll be able to code DApps, but you’ll be less effective in making good applications.
+The easiest way to get started making DApps is by first understanding how blockchain technology works in general. Making effective requires the paradigm shift to thinking in terms of decentralized services. 
 
-## Know More About DApps
+> Without blockchain knowledge, you’ll be able to code DApps, but you’ll be less effective in making good applications.
+
+## BOOK: More About DApps
+
+I have checked some other books as well, but it was hard to get the idea. Finally, this book is really helpful & written in a human friendly way.
 
 ```
-Beginning Blockchain: A Beginner's Guide to Building Blockchain Solutions
+Blockchain- Ultimate guide to understanding blockchain, bitcoin, cryptocurrencies, smart contracts and the future of money
 
-**Book** by Bikramaditya Singhal, Gautam Dhameja, and Priyansu Sekhar Panda
+By - Mark gates
+
 ```
 
