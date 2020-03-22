@@ -6,7 +6,7 @@
 
 ## What is Blockchain?
 
-![blockchain-introduction](.\blockchain-introduction.png)
+![blockchain-introduction](./blockchain-introduction.png)
 
 > A blockchain is a constantly growing ledger which keeps a permanent record of all the transactions that have taken place in a secure, chronological, and immutable way.
 
@@ -45,7 +45,7 @@ The evolution of blockchains has been steady and promising. The words block and 
 
 **For example**, Suppose you click on a photo that you want to send it to another person, so you can simply attach that photo to an email, type the receiver email address and send it. The other person will receive the photo, and you think it would end, but it is not. Now, we have two copies of photo, one is a simple email, and another is an original file which is still on my computer. Here, we send the copy of the file of the photo, not the original file. This issue is commonly known as the **double-spend** problem.
 
-![](.\how-bitcoin-works.png)
+![](./how-bitcoin-works.png)
 
 The double-spend problem provides a challenge to determine whether a transaction is real or not. How you can send a bitcoin to someone over the internet without needing a bank or some other institution to certify the transfer took place. The answer arises in a global network of thousands of computers called a Bitcoin Network and a special type of decentralized laser technology called **blockchain**.
 
@@ -53,7 +53,7 @@ In Bitcoin, all the information related to the transaction is captured securely 
 
 ## Blockchain Version
 
-![](.\blockchain-version.png)
+![](./blockchain-version.png)
 
 **Blockchain 1.0: Currency**
 
@@ -71,14 +71,14 @@ DApps is also known as a decentralized application. It uses decentralized storag
 
 ## How is the Bitcoin Blockchain built?
 
-The role of a minor is to build the blockchain of records that forms the bitcoin ledger. These ledgers are called blocks, and each block contains all the different transactions that have taken place. A new block is added in **every 10 minutes** as a new Bitcoin Transaction takes place.  ![role-of-bitcoin-miners](.\role-of-bitcoin-miners.png)
+The role of a minor is to build the blockchain of records that forms the bitcoin ledger. These ledgers are called blocks, and each block contains all the different transactions that have taken place. A new block is added in **every 10 minutes** as a new Bitcoin Transaction takes place.  ![role-of-bitcoin-miners](./role-of-bitcoin-miners.png)
 So, as the minors process these different transactions, they build the block, and when a block is confirmed, it gets added to the blockchain. The bitcoin blockchain provides a permanent record of all bitcoin transactions to the beginning.
 
 ## Blockchain Hash Function
 
 A hash function takes an input string (numbers, alphabets, media files) of any length and transforms it into a fixed length. The fixed bit length can vary (like 32-bit or 64-bit or 128-bit or 256-bit) depending on the hash function which is being used. The fixed-length output is called a hash. This hash is also the cryptographic byproduct of a hash algorithm. We can understand it from the following diagram.
 
-![blockchain-hash-function](.\blockchain-hash-function.png)
+![blockchain-hash-function](./blockchain-hash-function.png)
 
 **The hash algorithm has certain unique properties:**
 
@@ -126,7 +126,7 @@ This section, we are going to learn about the four basic components of bitcoin. 
 
     
 
-   ![components-of-bitcoin](.\components-of-bitcoin.png)
+   ![components-of-bitcoin](./components-of-bitcoin.png)
 
 **First Component: Software**
 
@@ -168,7 +168,7 @@ In this algorithm, **minors** (a group of people) compete against each other to 
 
 ## Coinbase Transaction
 
-![coinbase-transaction](.\coinbase-transaction.png)
+![coinbase-transaction](./coinbase-transaction.png)
 
 A coinbase transaction is the **first** transaction in a block. It is a **unique** type of bitcoin transaction that can be created by a miner. The miners use it to collect the block reward for their work and any other transaction fees collected by the miner are also sent in this transaction.
 
@@ -269,7 +269,7 @@ Both Bitcoin and Ethereum use Merkle Trees structure. Merkle Tree is also known 
 
 
 
-![blockchain-merkle-tree2](.\blockchain-merkle-tree2.png)
+![blockchain-merkle-tree2](./blockchain-merkle-tree2.png)
 
 Merkle Root is stored in the **block header**. The block header is the part of the bitcoin block which gets hash in the process of mining. 
 
